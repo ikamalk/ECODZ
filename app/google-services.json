@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "334029514366",
+    "firebase_url": "https://ecodz-5fd45.firebaseio.com",
+    "project_id": "ecodz-5fd45",
+    "storage_bucket": "ecodz-5fd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334029514366:android:eb4c020d3b44a838",
+        "android_client_info": {
+          "package_name": "com.example.root.ecodz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334029514366-h5kjegd2j35rrhskqs5d67o7s98q72qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.ecodz",
+            "certificate_hash": "7fb77e8c4b0f66c1f268768f6568f5148fd971a3"
+          }
+        },
+        {
+          "client_id": "334029514366-mvdr6tf4e09s59r0ffotjrj4p9n3ani7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCOxL2WjPnotVKPrTrVHArI70RJ7KdW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334029514366-mvdr6tf4e09s59r0ffotjrj4p9n3ani7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
